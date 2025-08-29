@@ -1,11 +1,11 @@
 # 🏥 Hospital Healthcare Management Dashboard  
 
-## 1️⃣ Project Title / Headline  
+## 1️⃣ Project Title  
 **Hospital & Patient Management Dashboard — Power BI solution for healthcare operations and patient insights**  
 
 ---
 
-## 2️⃣ Short Description / Purpose  
+## 2️⃣ Purpose  
 This project analyzes hospital and patient data to provide **operational KPIs, patient flow insights, and departmental performance tracking**.  
 The goal was to build an **interactive Power BI dashboard** that supports healthcare administrators in improving **resource allocation, patient satisfaction, and hospital efficiency**.  
 
@@ -31,7 +31,7 @@ The dataset includes:
 
 ---
 
-## 5️⃣ Features / Highlights  
+## 5️⃣ Features 
 
 ### 🔹 Hospital Dashboard  
 - KPIs: Total Patients, Inpatients, Outpatients, Avg. Treatment Cost, Avg. ER Time, Staff-to-Patient Ratio  
@@ -46,10 +46,12 @@ The dataset includes:
 ## 6️⃣ Screenshots / Demos  
 
 ### Hospital Dashboard  
-![Hospital Dashboard](screenshots/Hospital_Dashboard.png)  
+
+<img width="1120" height="624" alt="Hospital_Dashboard" src="https://github.com/user-attachments/assets/d4cd2451-f55e-48ec-9222-f6b2250d8a0b" />
 
 ### Patient Dashboard  
-![Patient Dashboard](screenshots/Patient_Dashboard.png)  
+
+<img width="1183" height="664" alt="Patient_Dashboard" src="https://github.com/user-attachments/assets/1888ef59-535b-4758-8b47-959eaf5113af" />
 
 ---
 
@@ -61,4 +63,4 @@ The dataset includes:
 
 ---
 
-👩‍💻 *Developed by [Your Name](https://github.com/yourusername)*  
+👩‍💻 *Developed by Pratiksha Chankapure(https://github.com/Pratiksha1904-git)*  
