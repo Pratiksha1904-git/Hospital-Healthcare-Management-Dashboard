@@ -43,7 +43,7 @@ The dataset includes:
 
 ---
 
-## 6️⃣ Screenshots / Demos  
+## 6️⃣ Screenshots 
 
 ### Hospital Dashboard  
 
